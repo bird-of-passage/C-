@@ -13,10 +13,6 @@ bool isPrime(int num){
 
 
 
-
-
-
-
 int main()
 {
     int a,b;
