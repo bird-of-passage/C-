@@ -25,6 +25,6 @@ int main(){
 
     cout<<linearSearch(arr,n,key)<<endl;
 
+
     return 0;
 }
- 

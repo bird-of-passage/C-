@@ -27,10 +27,13 @@ int main(){
     int n;
     cin>>n;
 
+    int i;
     int arr[n];
-    for(int i=0; i<n; i++){
+    for( i=0; i<n; i++){
         cin>>arr[i];
     }
+
+    sort(arr[i].begin(),arr[i].end(),greater<int>());
 
     int key;
     cin>>key;

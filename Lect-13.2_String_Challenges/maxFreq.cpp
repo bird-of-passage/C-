@@ -28,6 +28,5 @@ int main(){
     cout<<maxF<<" "<<ans<<endl;
 
 
-
     return 0;
 }
